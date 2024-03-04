@@ -29,6 +29,7 @@ First of all, learn, learn and learn. I am currently doing projects, to improve 
 Other importants tools: 
    <li>Chakra UI</li>
    <li>Ant Design</li>
+   <li>TailwindCSS</li>
 </ul>
 
 
