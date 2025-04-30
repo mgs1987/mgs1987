@@ -23,6 +23,8 @@ First of all, learn, learn and learn. I am currently doing projects, to improve 
   <img height="40" backgroundcolor="white" src="https://cdn.iconscout.com/icon/free/png-512/free-express-9-1175170.png?f=avif&w=256" />
   <img height="40" src="https://cdn.iconscout.com/icon/free/png-512/free-git-17-1175218.png?f=avif&w=256" />
   <img height="40" src="https://cdn.iconscout.com/icon/free/png-512/free-figma-3628771-3030133.png?f=avif&w=256" />
+  <img height="40" src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg"/>
+  <img height="40" src="https://logowik.com/content/uploads/images/strapi-icon8187.logowik.com.webp"/>
    
 </div>
 
